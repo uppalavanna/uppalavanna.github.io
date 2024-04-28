@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="UTF-8">
+
+    <title>Uppalavannarama</title>
+    <meta name="generator" content="Jekyll v3.9.3">
+    <meta property="og:title" content="Uppalavannarama">
+    <meta property="og:locale" content="en_AU">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description }}">
+
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" href="logo.png">
+
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <p align="center">
+        <img src="logo_with_text.png" style="height: 8em;" />
+      </p>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+      </footer>
+    </main>
+  </body>
+</html>

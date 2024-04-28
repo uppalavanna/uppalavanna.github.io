@@ -1,1 +1,0 @@
-# uppalavanna.github.io

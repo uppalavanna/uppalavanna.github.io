@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-image: unset;
+    background-color: white;
+    padding: 1rem;
+    color: black;
+}
+
+.main-content h2 {
+    color: #06123a; /* slate */
+}
+
