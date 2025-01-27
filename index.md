@@ -28,14 +28,20 @@ The kappiya association: uppalavannarama.kappiya[at]gmail.com
 
 ## Message from the Treasurer
 
-If you would like to assist with financial support for the material wellbeing, dhamma activities, travel and communications needs of the resident bhikkhuni sangha we invite you to make a donation to the account of the lay association monastic stewards “kappiyas” that issue open invitation to material support for the resident bhikkhuni sangha:  
-
-PayID/Osko: uppalavannarama.kappiya@gmail.com
-
-Account name: Uppalavannarama Kappiya
-
-BSB: 633 000
-
-Account number: 205 054 786
+If you would like to assist with financial support for the material wellbeing, dhamma activities, travel and communications needs of the resident bhikkhuni sangha we invite you to make a donation to the account of the lay association monastic stewards “kappiyas” that issue open invitation to material support for the resident bhikkhuni sangha.
 
 On behalf of the lay stewards: a big “anumodana” - we rejoice in the beauty of your kind support to the bhikkhuni sangha!
+
+### Option 1 - works from within Australia (no fees)
+
+| PayID/Osko     | uppalavannarama.kappiya@gmail.com |
+| ---            | --- | 
+| Account name   | Uppalavannarama Kappiya |
+| BSB            | 633 000 |
+| Account number | 205 054 786 |
+
+
+### Option 2 - Square (~2% fee)
+
+Please use this link: https://square.link/u/2j3dqKpM
+
