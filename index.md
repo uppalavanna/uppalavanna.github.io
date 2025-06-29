@@ -13,6 +13,28 @@ The primary source of teaching and practice at Uppalavannarama is the text of th
 
 Ayya Suvira encourages all people to sincerely practice meritorious deeds and the ten wholesome dhammas; and to learn, practice and transmit Buddhism widely for the purpose of liberation.
 
+## UBU Sangha at Harris Park
+
+* Monday between 7am-9am, weekly - full dana booking slot at Rosella Park, 43A Wigram St, Harris Park
+* Booking required - slot to offer full lunch dana at Harris Park.
+* Please bring own tongs/spoons to serve & cut all seeded fruits. No plastic takeaway containers or plastic water bottles please.
+* Sangha will cover bowl with hand when quantities are enough.
+* No gender requirements however if no chaperone only brief anumodana will be given.
+* Email uppalavannarama.sangha@gmail.com by Sunday evening to book.
+
+## UBU Sangha at Parramatta
+
+Location:
+```
+Foyer, Ground floor
+PHIVE building
+5, Parramatta Square
+```
+
+* Thursday night meet up at PHIVE foyer 6.30pm-7.45pm: **DEEPLY ALIVE at PHIVE Laywomen's Dhamma meetup with Ayya Suvira**. This is a chance for women to meet up to discuss the week's lay dhamma theme in an energised, traditional Buddhist values space based on guidance from the Tipitaka for Buddhism as a complete way of life. No booking required, weekly commencing July 24, 2025. Please check website for variations to schedule.
+* Sunday 3.00pm-5.00pm weekly at PHIVE foyer. **Individual meditation and dhamma guidance** slot (women only) to meet with Ayya Suvira. Standard appointment time is 15 minutes, booking required. Email uppalavannarama.sangha@gmail.com
+
+
 ## Visiting & (No) Meal Policy
 
 There is no visitation without a prior appointment. Please contact us to make an appointment.
