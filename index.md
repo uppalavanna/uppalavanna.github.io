@@ -36,11 +36,9 @@ PHIVE building
 * Sundays 3.00pm-4.30pm weekly at PHIVE foyer. **Individual meditation and dhamma guidance** slot (women only) to meet with Ayya Suvira. Standard appointment time is 15 minutes, booking required. Email [uppalavannarama.sangha@gmail.com](mailto:uppalavannarama.sangha@gmail.com)
 
 
-## Visiting & (No) Meal Policy
+## Visiting & House Dana Policy
 
-There is no visitation without a prior appointment. Please contact us to make an appointment.
-
-Please note that Ayya Suvira and visiting sangha have not accepted dana bookings, i.e. with the sole purpose of meal donation, or meal invitations since 2021. There is no fixed alms-route time or location (alms-route may vary without notice).
+Please note that the sangha's ability to take bookings outside of the advertised public times is limited and at sangha discretion. The residence is closed to the general public.
 
 ## Contact
 
