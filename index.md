@@ -42,6 +42,16 @@ Please note that the sangha's ability to take bookings outside of the advertised
 
 ## Contact
 
+### UBU Monastery Direct phone
+
+Mobile: 0450 515 508
+
+9am-12pm AEST or AEDT Tuesday-Sunday (subject to volunteer availability).
+
+Please leave a message if unattended.
+
+### Email
+
 Monastic contact: [uppalavannarama.sangha@gmail.com](mailto:uppalavannarama.sangha@gmail.com)
 
 The kappiya association: [uppalavannarama.kappiya@gmail.com](mailto:uppalavannarama.kappiya@gmail.com)
